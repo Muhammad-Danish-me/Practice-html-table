@@ -7,6 +7,7 @@ table.main {
   border-color: black;
   border-style: solid;
   padding: 0%;
+  height: 50%;
 }
 .black {
   background-color: black;
